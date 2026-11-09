@@ -34,10 +34,6 @@ Your journal, to-dos and rounds are saved only on your computer:
 
 **If macOS says it can't check the app:** Neuro-Mentum isn't yet registered with Apple, so the first launch needs one extra step. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
 
-## Also on the web
-
-Prefer a browser? Use the web version: [clear-pfc-flow.base44.app](https://clear-pfc-flow.base44.app)
-
 ## Feedback
 
 Made by [Linge (Grace) Guo](https://lingegrace.github.io/work-from-home-/). Ideas and bug reports are welcome in [Issues](https://github.com/lingegrace/neuro-mentum/issues).
